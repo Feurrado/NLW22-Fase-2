@@ -1,4 +1,4 @@
-# NLW eSports 
+# NLW eSports FASE 2!
 
 ![preview](/.github/print.png)
 
