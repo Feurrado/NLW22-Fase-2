@@ -12,7 +12,7 @@ Projeto construído no evento Next Level Week da Rocketseat
 
 - HTML
 - CSS
-- Git e GitHubp
+- Git e GitHub
 
 ## ✉️ Contato
 
